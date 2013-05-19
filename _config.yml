@@ -1,2 +1,4 @@
 name: Welp, it works
+timezone: America/Chicago
+permalink: /:year/:month/:day/:title/
 pygments: true
