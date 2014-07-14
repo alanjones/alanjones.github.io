@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://alanjones.github.io/sitemap.xml 
+Sitemap: http://alanjon.es/sitemap.xml 
